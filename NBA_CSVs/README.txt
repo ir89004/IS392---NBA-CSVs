@@ -1,0 +1,1 @@
+This folder contains the seasonal stats for the National Basketball Association (NBA) from the years 2021 to 2024 as CSV files. These files are extrapolated and referenced in our jupyter notebook stat tracker. 
